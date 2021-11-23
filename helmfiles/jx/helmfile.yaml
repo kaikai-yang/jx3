@@ -6,7 +6,7 @@ environments:
 namespace: jx
 repositories:
 - name: stable
-  url: https://charts.helm.sh/stable
+  url: http://mirror.azure.cn/kubernetes/charts
 - name: jxgh
   url: https://jenkins-x-charts.github.io/repo
 releases:
